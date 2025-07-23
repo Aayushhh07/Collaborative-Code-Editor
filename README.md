@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
-  <img src="https://img.shields.io/github/license/aayushhh07/Collaborative-Code-Editor" alt="License"/>
   <img src="https://img.shields.io/badge/Backend-Express.js-blue" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Frontend-React-blueviolet" alt="React"/>
   <img src="https://img.shields.io/badge/Realtime-Socket.IO-ffca28" alt="Socket.IO"/>
