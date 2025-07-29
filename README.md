@@ -54,6 +54,9 @@
 - 📝 **CodeMirror 6 Editor**: Syntax highlighting, smooth editing, and extensible.
 - 🚀 **Zero Setup**: No database, no config—just run and code.
 - 🛡️ **Secure & Private**: No code is stored after all users leave a room.
+- 🚀 **Deployed Fronend at:** [Vercel](https://collaborative-code-editor-rho.vercel.app)
+-  🚀 **Deployed Backend at:** [Backend](https://coditix.onrender.com)
+
 
 ---
 
