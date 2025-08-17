@@ -17,9 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
-  <img src="https://img.shields.io/badge/Backend-Express.js-blue" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Frontend-React-blueviolet" alt="React"/>
-  <img src="https://img.shields.io/badge/Realtime-Socket.IO-ffca28" alt="Socket.IO"/>
+  <img src="https://img.shields.io/github/license/aayushhh07/Collaborative-Code-Editor" alt="License"/>
 </p>
 
 ---
@@ -57,8 +55,6 @@
 - 🚀 **Deployed Fronend at:** [Vercel](https://collaborative-code-editor-rho.vercel.app)
 -  🚀 **Deployed Backend at:** [Backend](https://coditix.onrender.com)
 
-
----
 
 ## 🖼️ Screenshots
 
@@ -147,6 +143,10 @@ Please follow code style, add comments, and test your changes. See [TECHNICAL_RE
 - [LinkedIn](https://www.linkedin.com/in/aayush-vishwakarma-68a8a92a1)
 - [GitHub](https://github.com/Aayushhh07)
 - 📬 aayushvishwakarma93@gmail.com
+
+---
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 

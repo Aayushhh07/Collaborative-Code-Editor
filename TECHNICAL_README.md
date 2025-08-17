@@ -147,3 +147,4 @@ Client.js, Editor.js <---(used by)--- EditorPage.js
 For technical questions, open an issue or contact the author:
 - [GitHub](https://github.com/Aayushhh07)
 - [Email](mailto:aayushvishwakarma93@gmail.com) 
+
