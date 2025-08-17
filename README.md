@@ -18,9 +18,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
   <img src="https://img.shields.io/github/license/aayushhh07/Collaborative-Code-Editor" alt="License"/>
-  <img src="https://img.shields.io/badge/Backend-Express.js-blue" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Frontend-React-blueviolet" alt="React"/>
-  <img src="https://img.shields.io/badge/Realtime-Socket.IO-ffca28" alt="Socket.IO"/>
 </p>
 
 ---
@@ -55,8 +52,9 @@
 - 📝 **CodeMirror 6 Editor**: Syntax highlighting, smooth editing, and extensible.
 - 🚀 **Zero Setup**: No database, no config—just run and code.
 - 🛡️ **Secure & Private**: No code is stored after all users leave a room.
+- 🚀 **Deployed Fronend at:** [Vercel](https://collaborative-code-editor-rho.vercel.app)
+-  🚀 **Deployed Backend at:** [Backend](https://coditix.onrender.com)
 
----
 
 ## 🖼️ Screenshots
 
@@ -148,11 +146,10 @@ Please follow code style, add comments, and test your changes. See [TECHNICAL_RE
 
 ---
 
-## 📄 License
-
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
+
 
 <p align="center">
   <b>Made with ❤️ for the collaborative future of coding.</b>
